@@ -166,7 +166,7 @@ provided below this README.
 
 <br/>
 
-<img src="https://img.shields.io/badge/CONSISTENCY-OVER-INTENSITY-00E5FF?style=for-the-badge&labelColor=080B18" />
+<img src="https://img.shields.io/badge/CONSISTENCY--OVER--INTENSITY-00E5FF?style=for-the-badge&labelColor=080B18" />
 
 </div>
 
