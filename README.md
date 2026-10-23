@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/vlaksh26">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Lakshay+Verma+%F0%9F%91%8B;Mining+Engineering+%2B+Integrated+MBA;Exploring+AI%2C+Data+%26+Quant+Finance;Turning+Ideas+Into+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Lakshay+Verma+%F0%9F%91%8B;Mining+Engineering+%2B+Integrated+MBA;Exploring+AI%2C+Data+%26+Finance;Turning+Ideas+Into+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing SVG" />
 </a>
 
 <br/><br/>
