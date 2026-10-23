@@ -210,8 +210,7 @@ provided below this README.
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vlaksh26&style=for-the-badge&color=00E5FF&label=PROFILE+VISITORS" />
-
+<img src="https://hits.sh/github.com/vlaksh26.svg?style=for-the-badge&label=PROFILE%20VISITORS&color=00E5FF&labelColor=080B18" />
 <br/><br/>
 
 **⭐ If something interests you, explore my repositories and let's build something great!**
