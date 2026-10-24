@@ -48,10 +48,9 @@ class LakshayVerma:
         self.batch = "2025–2030"
 
         self.interests = [
-            "Quantitative Finance",
-            "Artificial Intelligence",
-            "Generative AI",
+            "Finance",
             "Data Analytics",
+            "Artificial Intelligence",
             "Problem Solving"
         ]
 
